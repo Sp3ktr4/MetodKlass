@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "M7QTLxycEViK7luOGU6TxqITc168OyD1pBvXHtgIRW7xfF6GnUvizUxM5nAgYGQBGd8T+VwRHLAIhPkTTzoV6w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\bergman.william\\Documents\\ProgrammeringVSC\\MetodKlass\\MetodKlass\\MetodKlass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bergman.william\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
